@@ -10,3 +10,18 @@ Stock Prediction Model
   4) Yeoh Tzi Kian
   5) Lee Jun Wen
   6) Yip Mun Jun
+
+How To Use The Program?
+
+> Preprocessess.ipynb is only for preprocessing and feature selection purposes which are not related to the actual machine learning model
+
+> main.ipynb is the main file which consists everything for the stock prediction model
+- Dataset download source
+- Data cleansing
+- Data split
+- Model builds
+- Model training
+- Model testing
+- Model testing into more unseen data
+
+  
